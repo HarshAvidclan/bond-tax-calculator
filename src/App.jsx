@@ -1,5 +1,5 @@
 import "./App.css";
-import "./Components/BondCalculatorPage";
+import { BondCalculatorPage } from "./Components/BondCalculatorPage.jsx";
 function App() {
   return (
     <>
